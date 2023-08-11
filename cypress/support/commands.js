@@ -1,7 +1,7 @@
 Cypress.Commands.add('login', () => {
   cy.visit('/login')
-  cy.get('#email').type('lucastestecypress@gmail.com')
-  cy.get('#password').type('Lucas@teste@1234@')
+  cy.get('#email').type('xxxxxx')
+  cy.get('#password').type('xxxxx')
   cy.contains('button', 'Login').click()
 })
 
