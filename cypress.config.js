@@ -7,7 +7,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {},
    // baseUrl: 'https://notes-serverless-app.com',
 
-   viewportWidth: 1920,
-   viewportHeight: 1080,
+   viewportWidth: 1366,
+   viewportHeight: 768,
   },
 })
